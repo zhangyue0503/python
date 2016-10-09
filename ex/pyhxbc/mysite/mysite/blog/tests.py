@@ -9,4 +9,3 @@ class BlogPostTest(TestCase):
     def test_obj_create(self):
         BlogPost.objects.create(title='raw title',
                                 body='raw body',timestamp=datetime.now())
-        
