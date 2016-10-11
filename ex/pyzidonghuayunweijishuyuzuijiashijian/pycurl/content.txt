@@ -1,0 +1,207 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 11 Oct 2016 04:34:06 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.41
+Set-Cookie: _csrf=e2b5462827c73d0a9c8afa19cfb743164a219bd93d5f8640dcc1bd6fd3ea2b54a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22gvIigG51HAbi_HHilE2qtxLZVi0qIGaL%22%3B%7D; path=/; httponly
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baidu-site-verification" content="M3sS8ppaNF" />
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="aGtPSHpseVYPHQYhHStMZyAqLSElJDE/BC59OQ4UNQw.An85MysYGg==">
+    <title>顺道嘉官方网站</title>
+    <link href="/assets/a2c01772/css/bootstrap.css" rel="stylesheet">
+<link href="/css/main.css" rel="stylesheet"></head>
+<body>
+<div id="ieless8" style="display:none;width:100%;padding:10px;background:yellow;color:red;">您的浏览器版本过低，请使用IE8以上版本</div>
+<script type="text/javascript">
+    var DEFAULT_VERSION = "8.0";
+    var ua = navigator.userAgent.toLowerCase();
+    var isIE = ua.indexOf("msie")>-1;
+    var safariVersion;
+    if(isIE){
+        safariVersion =  ua.match(/msie ([\d.]+)/)[1];
+    }
+    if(safariVersion <= DEFAULT_VERSION ){
+        // 进行你所要的操作
+        document.getElementById('ieless8').style.display = '';
+    }
+</script>
+<div class="wrap">
+    <div class="mainContent">
+        <div class="header content-width">
+        <span class="logo">
+
+            <img src="/images/html/logo.png" alt="顺道嘉官方网站">
+            <span class="name">
+                顺道嘉
+            </span>
+        </span>
+
+            <nav class="navbar">
+                <li>
+                    <a href="/index.html" class="current">首页</a>
+                </li>
+                <li>
+                    <a href="/sdjapp.html" >顺道嘉</a>
+                </li>
+                <li>
+                    <a href="/sellerapp.html" >顺道嘉-商家版</a>
+                </li>
+                <li>
+                    <a href="/job.html" >人才招聘</a>
+                </li>
+                <li>
+                    <a href="/site/insert" >会员注册</a>
+                </li>
+                <li>
+                    <a href="/site/message" >资讯中心</a>
+                </li>
+            </nav>
+        </div>
+    
+    <div class="top-banner">
+        <img src="/images/html/banner-1.png" alt="">
+    </div>
+    <div class="top-desc">
+        <div class="top-header">
+            <img src="/images/html/top-header.png" alt="">
+        </div>
+    </div>
+    <div class="desc-header" role="tablist">
+        <ul class="content-width">
+            <li role="presentation" class="active">
+                <a href="#market-prospect" role="tab" data-toggle="tab">市场前景</a>
+            </li>
+            <li role="presentation">
+                <a href="#operation-pattern" role="tab" data-toggle="tab">运作模式</a>
+            </li>
+            <li role="presentation">
+                <a href="#project-advantage" role="tab" data-toggle="tab">项目优势</a>
+            </li>
+        </ul>
+        <div class="clearfix"></div>
+    </div>
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane sdjtab-pane active  content-width" id="market-prospect">
+            <img src="/images/html/market-prospect-title1.png"/>
+            <table width="100%">
+                <tbody>
+                <tr>
+                    <td><img src="/images/html/1.png" align="left"/></td>
+                    <td>看电影想吃零食不想下楼买</td>
+                    <td><img src="/images/html/2.png"/></td>
+                    <td>朋友聚餐酒不够了不方便离身</td>
+                    <td><img src="/images/html/3.png"/></td>
+                    <td>快递送达的时候刚好不在家</td>
+                </tr>
+                <tr>
+                    <td><img src="/images/html/4.png"/></td>
+                    <td>做饭料不够了没空下楼去买</td>
+                    <td><img src="/images/html/5.png"/></td>
+                    <td>一堆不常用的工具但不得不买</td>
+                    <td><img src="/images/html/6.png"/></td>
+                    <td>或者更多在您需要帮助的时候</td>
+                </tr>
+                </tbody>
+            </table>
+            <hr/>
+            <img src="/images/html/market-prospect-title2.png"/>
+            <p class="text-left">
+                目前，我国约有10万多个大型社区，社区商业因资源区域化，分布小而散，极具网络化发展特质，在这其中孕含着无数商机。与此同时，互联网+的兴起，使创业兴趣人口持续上升，社区服务无疑是他们创业的最佳选择。创业之路谈何简单？然而我们可以给他们平台，创业更加的方便，让他们少走崎岖路，飞向巅峰。
+            </p>
+            <hr/>
+            <img src="/images/html/market-prospect-title3.png"/><br/>
+            <img src="/images/html/market-prospect-title4.png"/>
+            <img src="/images/html/market-prospect-title6.png"/>
+            <img src="/images/html/market-prospect-title5.png"/>
+            <img src="/images/html/market-prospect-title6.png"/>
+            <img src="/images/html/market-prospect-title7.png"/>
+            <p class="text-left">
+                顺道嘉充分利用微信裂变式的传播优势，让所有的人都知道我们顺道嘉的优点，并且完美发挥APP的优势：提高用户黏性，提高用户体验度，功能更加强大，交易流程更方便等优点。
+            </p>
+            <hr/>
+        </div>
+        <div role="tabpanel" class="tab-pane sdjtab-pane  content-width" id="operation-pattern">
+            <img src="/images/html/operation-pattern-title1.png"/>
+            <img src="/images/html/operation-pattern-title2.png"/>
+            <p class="text-left">
+                顺道嘉是基于O2O的兴起而研发的一个社区服务
+                项目，它通过自主运营和对社区周边商家生活服务资源的整合，为创业者提供投资小，风险低，竞争力强的创业机会，又为消费者提供足不出户15分钟极速送达的消费服务，力在打造全新的社区商业生态和社交生态平台
+            </p>
+            <img src="/images/html/operation-pattern-title3.png"/><br/>
+            <img src="/images/html/11.png"/>
+            <p>
+                <span>定期的活动：</span>免费帮您组织活动，大量提高营业额
+            </p>
+            <img src="/images/html/22.png"/>
+            <p>
+                <span>完善的服务：</span>您遇到的任何问题，我们将尽力解决
+            </p>
+            <img src="/images/html/33.png"/>
+            <p>
+                <span>信用额度：</span>手头紧张进货无优，公司帮您度难关
+            </p>
+
+        </div>
+        <div role="tabpanel" class="tab-pane sdjtab-pane" id="project-advantage">
+            <div>
+                <img src="/images/html/01.png"/>
+                <p>
+                    全国独家经营模式，实现多方互惠互利，不论是买、卖，还是帮我们推广，都可以有额外的经济收入。
+                </p>
+            </div>
+            <div style="background: #f8f8f8;">
+                <img src="/images/html/02.png"/>
+                <p>
+                    不用店面装修，不用购买高额设备，零风险！只要联系我们就有人帮你把店开到社区。
+                </p>
+            </div>
+            <div>
+                <img src="/images/html/03.png"/>
+                <p>
+                    因为区域保护政策，每一个小区只接受一家加盟商，所有居民都是潜在客户，只要做的好，24小时赚不停。
+                </p>
+            </div>
+            <div style="background: #f8f8f8;">
+                <img src="/images/html/04.png"/>
+                <p>
+                    O2O行业是必然的发展趋势，最后的一公里，由我们来完成。
+                </p>
+            </div>
+            <div>
+                <img src="/images/html/05.png"/>
+                <p>
+                    不论是开店还是消费，讲究的就是方便。轻松实现三步消费，四步开店等优势。
+                </p>
+            </div>
+        </div>
+    </div>
+        </div>
+</div>
+
+<div id="footer">
+    <p></p>
+    <p>
+        “顺道嘉”是由北京同创共享网络科技有限公司所开发的手机APP<br/><br/>
+        专业的手机日用品速购、耐用品短租、快递代收代送平台。快速、高效、准确的投递方式，解决民生家庭应急(快消品、日用品、小食品、耐用品、必备品等)。整合零散时间，改变生活方式。在顺道嘉，急需品轻松到手，好生活即刻享受！
+<br/><br/>
+        公司地址：北京市通州区榆景东路金融街园中园5号院56号楼<br/><br/>
+        客服热线：4000-111-228<br/><br/>
+        京ICP备16041276号-1
+    </p>
+    <div style="display:none;"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1260265653'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1260265653' type='text/javascript'%3E%3C/script%3E"));</script></div>
+</div>
+
+<script src="/assets/40e399/jquery.js"></script>
+<script src="/assets/e1d16b4/yii.js"></script>
+<script src="/assets/a2c01772/js/bootstrap.js"></script>
+<script src="/js/main.js"></script></body>
+</html>
