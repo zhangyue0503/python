@@ -1,4 +1,4 @@
 *.exe
 .idea
-/awesome-python-webapp-release
-/awesome-python-webapp
+/awesome-python-webapp-release/
+/awesome-python-webapp/
