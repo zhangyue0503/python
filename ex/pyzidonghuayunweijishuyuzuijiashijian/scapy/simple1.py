@@ -1,4 +1,9 @@
 #coding=utf-8
+
+#需要这些
+#yum -y install tcpdump graphviz ImageMagick
+#pip install scapy
+
 import os,sys,time,subprocess
 import warnings,logging
 
